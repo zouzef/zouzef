@@ -1,18 +1,21 @@
-## Hi there 👋
+# Hi, I'm Youssef 👋
 
-<!--
+I'm a software engineering student at **ESPRIT** (École Supérieure Privée d'Ingénierie et de Technologies), passionate about building real-world applications that solve meaningful problems.
 
-**zouzef/zouzef** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I work across the full stack — from backend APIs and database architecture to computer vision and machine learning integration — with a focus on clean, maintainable code and practical impact.
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- **Backend:** Python, Flask, Django
+- **Frontend:** HTML, CSS, Bootstrap, JavaScript, jQuery
+- **Databases:** MySQL, SQLite
+- **ML / CV:** YOLO, InsightFace, CompreFace
+- **Tools:** Git, Linux, REST APIs, SocketIO
 
--->
+## 🚀 What I'm Working On
+
+Building academic platform ecosystems — including attendance automation with face recognition, web dashboards, and real-time sync systems.
+
+## 📫 Get in Touch
+
+Feel free to explore my repositories and reach out if you'd like to collaborate!
